@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardFragment</string>
+    <string name="pref_previously_started"></string>
+</resources>

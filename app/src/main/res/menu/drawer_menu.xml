@@ -1,0 +1,19 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_group_1">
+        <item
+            android:id="@+id/i1"
+            android:title="Расписание" />
+        <item
+            android:id="@+id/i2"
+            android:title="Новости" />
+    </group>
+    <group android:id="@+id/menu_group_2">
+        <item
+            android:id="@+id/i3"
+            android:title="Поменять группу" />
+        <item
+            android:id="@+id/i4"
+            android:title="О приложении" />
+    </group>
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_items">
+        <item>Кот</item>
+        <item>Кошка</item>
+        <item>Котёнок</item>
+        <item>Животное</item>
+    </string-array>
+</resources>
